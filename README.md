@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-*Perkenalkan nama saya Fitri Rahmatullah Arza <b>
-*Saya seorang pelajar yang tertarik dengan bidang IT<b>
-*Saat ini saya sedang belajar mengenai "Front-end develoment"<b>
+*Perkenalkan nama saya Fitri Rahmatullah Arza* <br>
+*Saya seorang pelajar yang tertarik dengan bidang* IT <br>
+*Saat ini saya sedang belajar mengenai "Front-end develoment"* <br>
 
 <!--
 **firza-nrk/firza-nrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
